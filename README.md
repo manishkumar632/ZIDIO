@@ -6,6 +6,28 @@ ZIDIO is a full-stack job portal platform designed to connect jobseekers, recrui
 
 ---
 
+## Project Screenshots
+
+> Below are some screenshots to give you an overview of the application's look and feel. Replace the image paths with your actual screenshot filenames if needed.
+
+### Landing Page
+
+![Landing Page](frontend/employara/public/landing.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](frontend/employara/public/admin-dashboard.png)
+
+### Jobseeker Profile
+
+![Jobseeker Profile](frontend/employara/public/jobseeker-profile.png)
+
+### Recruiter Dashboard
+
+![Recruiter Dashboard](frontend/employara/public/recruiter-dashboard.png)
+
+---
+
 ## Features
 
 ### Frontend
