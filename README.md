@@ -20,7 +20,7 @@ ZIDIO is a full-stack job portal platform designed to connect jobseekers, recrui
 
 ### Jobseeker Profile
 
-![Jobseeker Profile](frontend/employara/public/jobseeker-profile.png)
+![Jobseeker Profile](https://github.com/manishkumar632/ZIDIO/blob/49890ccf082e28a4dc94e1c5c51694f1838f4f4c/images/Screenshot%202025-06-24%20170559.png)
 
 ### Recruiter Dashboard
 
